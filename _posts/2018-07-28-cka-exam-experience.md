@@ -11,7 +11,7 @@ tags:
     - CKA
 ---
 
-![](https://www.keyunshang.com/2019/07/28/cka-exam-experience/)
+![](https://keyunshang.com/wp-content/uploads/2019/07/image-1.png)
 
 刚刚通过了CKA(Certificated Kubernetes Administrator) 考试。下面分享一些自己的考试经验。
 
