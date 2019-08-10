@@ -2,13 +2,13 @@
 layout:     post
 title:      yabaker
 subtitle:   A tool for quickly creating YAML from templates.
-date:       2019-08-04
+date:       2019-08-10
 author:     Keyun Shang
 header-img: img/post-bg-kuaidi.jpg
 catalog: true
 tags:
     - kubernetes
-    - tmux
+
 ---
 
 There are many tools for orchestrating kubernetes YAML, such as helm, kustomerize or kaptain. However, they are too heavy for me.
