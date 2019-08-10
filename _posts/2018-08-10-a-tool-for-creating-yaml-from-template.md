@@ -4,7 +4,7 @@ title:      yabaker
 subtitle:   A tool for quickly creating YAML from templates.
 date:       2019-08-10
 author:     Keyun Shang
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/post-bg-mma-1.jpg
 catalog: true
 tags:
     - kubernetes

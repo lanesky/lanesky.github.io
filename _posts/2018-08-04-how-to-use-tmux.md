@@ -4,7 +4,7 @@ title:      怎么使用tmux
 subtitle:   怎么使用tmux
 date:       2019-08-04
 author:     Keyun Shang
-header-img: img/post-bg-kuaidi.jpg
+header-img: img/post-bg-mma-2.jpg
 catalog: true
 tags:
     - kubernetes

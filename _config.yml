@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: shangkeyun@gmail.com
 description: "No dumb questions.Every failure is leading towards success."
 keyword: "Keyun Shang, Keyun Shang's Blog, 尚可耘的博客, shangkeyun, 尚可耘, kubernetes, linux"
-url: "http://lanesky.github.io"          # your host, for absolute URL
+url: "http://keyunshang.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lanesky/lanesky.github.io.git" # you code repository
 
