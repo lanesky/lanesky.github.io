@@ -56,6 +56,7 @@ wordpress.yaml
 ## Configuration
 
 1. For each variable in the yaml, you need to add double braces. Below is an example.
+
 ```
 apiVersion: v1
 kind: Service
