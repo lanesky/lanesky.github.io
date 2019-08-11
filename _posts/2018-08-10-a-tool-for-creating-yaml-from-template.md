@@ -64,14 +64,14 @@ metadata:
   name: mysql
   labels:
     app: mysql
-    env: "{{env}}"
+    env: \{\{env\}\}
 spec:
   type: ClusterIP
   ports:
     - port: 3306
   selector:
     app: mysql
-    env: "{{env}}"
+    env: \{\{env\}\}
 ```
 
 2. The conf. file looks as below. What you need to do is to add the variable-value pairs into it.
