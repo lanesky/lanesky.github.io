@@ -14,11 +14,11 @@ tags:
 
 Kubectl is a client tool for managing the kubernetes objects. You can management different kubernetes clusters by specifying different context with the command as below.
 
-    `kubectl config use-context myprod-ks`
+    kubectl config use-context myprod-ks
 
-You may have a bunch of clusters to manage for different purposes such as cluster for development, cluster for test or cluster for production. In this case, you need a way to prevent misuse of the cluster you don't actually want.
+However, if you a bunch of clusters to manage for different purposes such as cluster for development, cluster for test or cluster for production, you may need a way to prevent from using wrong context.
 
-My way is to show an alert if current context is for production cluster. 
+My way is to show an alert for the specified context when running `kubectl` command.
 
 
 ## Steps
@@ -40,7 +40,7 @@ if [[ $(/usr/local/bin/kubectl config current-context) == *"prod"* ]]; then
   RED='\033[0;31m'
   NC='\033[0m' # No Color
   echo "------------------------------------------"
-  echo  "You're using ${RED} PROD ${NC} production."
+  echo  "You're using the ${RED} PROD ${NC} environment."
   echo "------------------------------------------"
 
 fi
@@ -62,7 +62,7 @@ That's all!
 Now, if the current context of your kubectl configuration contains `prod` keyword, the following message will be shown when running any of the `kubectl` commands. 
 
     ------------------------------------------
-    You're using  PROD  production.
+    You're using the PROD  environment.
     ------------------------------------------
 
 

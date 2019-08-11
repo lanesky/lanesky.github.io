@@ -15,7 +15,7 @@ There are many tools for orchestrating kubernetes YAML, such as helm, kustomeriz
 
 What I want is a tool that can create yaml files based on a set of templates I created. I don't want to learn heavy tools, I don't want this tool to do too much work such as including other files or version management. I just want the tool to be able to search for and replace the variables I set in the template.
 
-Yabaker is such a tool.
+[Yabaker](https://github.com/lanesky/yabaker) is such a tool.
 
 ## Tuotorial
 
@@ -64,14 +64,14 @@ metadata:
   name: mysql
   labels:
     app: mysql
-    env: {{env}}
+    env: "{{env}}"
 spec:
   type: ClusterIP
   ports:
     - port: 3306
   selector:
     app: mysql
-    env: {{env}}
+    env: "{{env}}"
 ```
 
 2. The conf. file looks as below. What you need to do is to add the variable-value pairs into it.
