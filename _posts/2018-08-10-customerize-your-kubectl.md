@@ -27,10 +27,9 @@ My way is to show an alert for the specified context when running `kubectl` comm
 
     `mkdir ~/bin`
 
-2. Create a shell script named `kubectl` as below and place it into the directory you just created.
+2. Copy and create a shell script named `kubectl` as below and place it into the directory you just created. 
 
 ```
-cat > ~/bin/kubectl << EOF
 #!/bin/sh
 
 /usr/local/bin/kubectl "$@"
@@ -44,7 +43,6 @@ if [[ $(/usr/local/bin/kubectl config current-context) == *"prod"* ]]; then
   echo "------------------------------------------"
 
 fi
-EOF
 ```
 
 3. Make the script executable.
