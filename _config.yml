@@ -114,5 +114,10 @@ friends: [
     {
         title: "Wang Yong",
         href: "http://isamu.xyz"
+    },
+
+    {
+        title: "Jin Luxi",
+        href: "https://github.com/Luxi-Jin"
     }
 ]
