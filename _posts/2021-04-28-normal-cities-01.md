@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      平凡都城(1) - 江城市
+title:      平凡都城(1)
 subtitle:   平凡都城
 date:       2021-04-28
 author:     Keyun Shang
