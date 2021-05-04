@@ -2,7 +2,7 @@
 layout:     post
 title:      天堂的八公
 subtitle:   记念八公
-date:       2021-08-10
+date:       2021-04-20
 author:     Keyun Shang
 header-img: img/hachiko-long.png
 catalog: true
