@@ -1,7 +1,7 @@
 # Site settings
-title: AI Spin Spin Spin Blog
-SEOTitle: AI转转转 | Hux Blog
-header-img: img/home-bg.jpg
+title: AI转转转
+SEOTitle: AI转转转 - 人工智能技术分享
+header-img: img/post-sample-image.jpg
 url: "lanesky.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
