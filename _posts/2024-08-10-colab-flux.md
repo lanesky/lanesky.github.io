@@ -6,7 +6,6 @@ header-style: text
 catalog:      true
 tags:
     - AI
-    - facefusion
 ---
 
 
@@ -20,8 +19,8 @@ tags:
 ### 架构图
 [![architecture](https://lanesky.github.io/img/in-post/post-colab-flux/architecture.png)](https://lanesky.github.io/img/in-post/post-colab-flux/architecture.png)
 
-### Colab Notebook URL（使用ComfyUI安装Flux1 schnell.ipynb）：
-https://colab.research.google.com/drive/1U2rFvPYByy8E12F8tRVIZMgtJ7zIifR_?usp=sharing
+### Colab Notebook URL：
+[使用ComfyUI安装Flux1 schnell.ipynb](https://colab.research.google.com/drive/1U2rFvPYByy8E12F8tRVIZMgtJ7zIifR_?usp=sharing)
 
 
 
