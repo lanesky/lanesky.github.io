@@ -7,6 +7,7 @@ catalog:      true
 tags:
     - AI
     - facefusion
+    - 安装包
 ---
 
 

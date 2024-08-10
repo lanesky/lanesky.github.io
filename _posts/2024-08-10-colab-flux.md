@@ -6,6 +6,10 @@ header-style: text
 catalog:      true
 tags:
     - AI
+    - Colab
+    - Flux
+    - Cloudflare
+    - ComfyUI
 ---
 
 

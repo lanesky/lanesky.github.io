@@ -6,7 +6,8 @@ header-style: text
 catalog:      true
 tags:
     - AI
-    - facefusion
+    - llama3.1
+    - 微调
 ---
 
 
