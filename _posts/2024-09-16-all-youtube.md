@@ -26,7 +26,7 @@ tags:
 
 ## 工程师系列
 - [每月省10美元！用VS Code插件完美替代GitHub Copilot，组合Ollama--Llama 3.1 8B--通义千问](https://youtu.be/Sh0OecQd7Qw) 
-- [cheat engine |黑神话悟空--攻击9999，防御9999](https://youtu.be/ky4p6iwBwoo) 
+- [cheat engine --黑神话悟空--攻击9999，防御9999](https://youtu.be/ky4p6iwBwoo) 
 - [Colab + ComfyUI + Cloudflare Tunnel部署Flux1 Schnell，省钱省力](https://youtu.be/9ugJBFKkNJE) 
 - [FaceFusion 2.6.1在WSL环境中的安装（重新上传）--换脸神器--实战 #facefusion #wsl](https://youtu.be/V4IDWzv-TKY) 
 - [FaceFusion的官方Windows安装包要花钱，那就自己写一个](https://youtu.be/D-2i0X8rysI) 
